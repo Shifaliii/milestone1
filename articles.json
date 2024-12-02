@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1,
+    "title": "Understanding Asynchronous Programming",
+    "content": "This article explains callbacks, promises, and async/await in Node.js.",
+    "tags": [
+      "nodejs",
+      "async"
+    ],
+    "createdAt": "2024-12-02T08:49:52.117Z"
+  },
+  {
+    "id": 2,
+    "title": "Understanding Asynchronous Programming",
+    "content": "This article explains callbacks, promises, and async/await in Node.js.",
+    "tags": [
+      "nodejs",
+      "async"
+    ],
+    "createdAt": "2024-12-02T09:17:34.241Z"
+  },
+  {
+    "id": 3,
+    "title": "Introduction to Node.js",
+    "content": "Node.js is a powerful JavaScript runtime for building server-side applications.",
+    "tags": [
+      "nodejs",
+      "javascript",
+      "backend"
+    ],
+    "createdAt": "2024-12-02T09:17:42.371Z"
+  },
+  {
+    "id": 4,
+    "title": "Understanding RESTful APIs",
+    "content": "RESTful APIs are a cornerstone of modern web development, enabling seamless data exchange.",
+    "tags": [
+      "api",
+      "rest",
+      "web"
+    ],
+    "createdAt": "2024-12-02T09:18:01.377Z"
+  },
+  {
+    "id": 5,
+    "title": "Advantages of Asynchronous Programming",
+    "content": "Asynchronous programming in Node.js helps in handling multiple requests efficiently.",
+    "tags": [
+      "nodejs",
+      "async",
+      "programming"
+    ],
+    "createdAt": "2024-12-02T09:18:23.429Z"
+  },
+  {
+    "id": 6,
+    "title": "Mastering JavaScript Basics",
+    "content": "JavaScript is essential for web development and serves as the foundation for modern frameworks.",
+    "tags": [
+      "javascript",
+      "frontend",
+      "programming"
+    ],
+    "createdAt": "2024-12-02T09:18:50.819Z"
+  },
+  {
+    "id": 7,
+    "title": "The Importance of Modular Code",
+    "content": "Modular code ensures better maintainability and scalability in software projects.",
+    "tags": [
+      "code",
+      "modular",
+      "best-practices"
+    ],
+    "createdAt": "2024-12-02T09:19:05.041Z"
+  },
+  {
+    "id": 8,
+    "title": "star",
+    "content": "abcanbc.",
+    "tags": [
+      "code",
+      "modular",
+      "best-practices"
+    ],
+    "createdAt": "2024-12-02T09:59:38.590Z"
+  }
+]
